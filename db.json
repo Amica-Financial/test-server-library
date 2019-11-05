@@ -25,7 +25,7 @@
         "author": "Fyodor Dostoyevsky"
     }],
 
-    authors: [
+    "authors": [
     {
         "id": 1,
         "name": "William Shakespeare",
