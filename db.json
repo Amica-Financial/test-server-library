@@ -1,0 +1,44 @@
+{
+    "books": [{
+        "id": 1,
+        "name": "Julius Caesar",
+        "author": "William Shakespeare"
+    },
+    {
+        "id": 2,
+        "name": "Tom Sawyer",
+        "author": "Mark Twain"
+    },
+    {
+        "id": 3,
+        "name": "Great Expectations",
+        "author": "Charles Dickens"
+    },
+    {
+        "id": 4,
+        "name": "War and Peace",
+        "author": "Leo Tolstoy"
+    },
+    {
+        "id": 5,
+        "name": "Crime and Punsihment",
+        "author": "Fyodor Dostoyevsky"
+    }],
+
+    authors: [
+    {
+        "id": 1,
+        "name": "William Shakespeare",
+        "genres": ["drama", "tragedy"]
+    },
+    {
+        "id": 2,
+        "name": "Mark Twain",
+        "genres": ["children", "realism"]
+    },
+    {
+        "id": 3,
+        "name": "Leo Tolstoy",
+        "genres": ["tragedy"]
+    }]
+}
